@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "薛颖杰"
+title: "Yingjie Xue"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-薛颖杰，布朗大学(Ivy League School) 计算机科学专业博士研究生，2023年7月将加入香港科技大学（广州）社会枢纽金融科技学域，担任助理教授。 薛颖杰于2015年在中国科学技术大学信息安全专业获得学士学位，并于2018年在中国科学技术大学获得电子与通信工程专业硕士学位，导师为薛开平教授。 博士期间致力于区块链跨链交易的协议设计。导师为布朗大学教授Maurice Herlihy。更多研究相关信息可参考我的cv。
+Yingjie Xue is an assistant professor at Hong Kong University of Science and Technology (Guangzhou), Society Hub, Financial Technology Thrust. Her research is focused on blockchain, e.g. blockchain interoperability, security & privacy, and decentralized finance. She received her Ph.D. in Computer Science from Brown University (Ivy League School), Computer Science Department, in 2023. Her supervisor is [Dr. Maurice Herlihy](https://cs.brown.edu/~mph/). She received her bachelor's degree in Information Security from the University of Science and Technology of China (in 2015). She received her master's degree in Electronics and Communication Engineering the University of Science and Technology of China (in 2018). Her supervisor is [Dr. Kaiping Xue](http://staff.ustc.edu.cn/~kpxue/).
