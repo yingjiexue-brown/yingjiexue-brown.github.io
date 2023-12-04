@@ -6,7 +6,4 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-{% for post in site.news reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Our paper "Distributed runtime verification of metric temporal properties" has been accepted to Journal of Parallel and Distributed Computing, 2023.
