@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yingjie Xue"
   avatar           : "yingjie.JPG"
-  bio              : "Assistant Professor at Hong Kong University of Science and Technology (Guangzhou) working on blockchain"
-  location         : "Guangzhou,China"
+  bio              : "Associate Researcher at University of Science and Technology of China"
+  location         : "Hefei,China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8vr_EacAAAAJ"
-  email            : yingjiexue@hkust-gz.edu.cn
+  email            : yjxue@ustc.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

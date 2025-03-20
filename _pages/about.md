@@ -11,7 +11,7 @@ Dr. Yingjie Xue is an associate researcher at University of Science and Technolo
 
 ## Position Openings
 
-<span style="color:red">I am looking for high motivated students to do excellent research with me.</span> Please send me your CV and transcripts ( to yingjiexue@hkust-gz.edu.cn) if you are interested. 
+<span style="color:red">I am looking for high motivated students to do excellent research with me.</span> Please send me your CV and transcripts ( to yjxue@ustc.edu.cn) if you are interested. 
 
 Due to the large volume of applications, it is not feasible for me to respond to each applicant individually regarding the status of their application and address their inquiries. Kindly refrain from taking it personally. In the event that you are shortlisted for further consideration, I will get in touch with you directly.
 
